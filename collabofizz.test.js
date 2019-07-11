@@ -1,5 +1,3 @@
-const num = 3;
-
 const fizzbuzz = num => {
     
 };
