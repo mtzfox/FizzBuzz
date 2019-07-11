@@ -1,13 +1,5 @@
+const functions = {
+    add: (num1, num2) => num1 + num2,
+};
 
-const value = 3;
-
-/* test */
-it("getResult", function(){
-    describes("returns a string", function(){
-			expect("3", )
-    });
-});
-
-const getResult = function(value) {
-    console.log(value.toString);
-}
+module.exports = functions;
