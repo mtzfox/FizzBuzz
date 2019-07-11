@@ -1,7 +1,7 @@
 const num = 3;
 
 const fizzbuzz = num => {
-    
+    console.log(num.toString);
 };
 
 /* test */
