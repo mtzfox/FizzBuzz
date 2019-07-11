@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -1661,3 +1662,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 >>>>>>> 360458895d6e13195afa654a8c98bf58736b1fbe
+=======
+# FizzBuzz
+FizzBuzz project
+
+### `npm run test` to test with jest
+>>>>>>> 0f21522593438a4c53b1cf0a1150620573582d36

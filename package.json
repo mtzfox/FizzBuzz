@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "fizzbuzz",
   "version": "0.1.0",
   "private": true,
@@ -15,3 +16,26 @@
     "eject": "react-scripts eject"
   }
 }
+=======
+  "name": "collabofizz",
+  "version": "1.0.0",
+  "description": "FizzBuzz project",
+  "main": "collabofizz.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redfoxseattle/FizzBuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redfoxseattle/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/redfoxseattle/FizzBuzz#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
+>>>>>>> 0f21522593438a4c53b1cf0a1150620573582d36
